@@ -18,5 +18,5 @@ Utilize (NodeJS)[https://nodejs.org/en/] to create and satisfy the outlined obje
 Utilize (Google Firebase)[https://firebase.google.com/products] to store and query data. The basic requirement is to use Firebase functionality to create a data store. Feel free to include other Firebase products/technologies should you see a need to do so.
 
 ### Third-Party API
-Utilize the (Marvel API)[https://developer.marvel.com/] to power your application.
+Utilize the [Marvel API](https://developer.marvel.com/) to power your application.
 

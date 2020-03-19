@@ -3,3 +3,6 @@ The Envoy Group Backend-Engineer Code Test. This exercise is used to assess requ
 
 ### Getting started
 Please see each of the directory `readme` files for more information.
+
+### Submitting
+**Please create TWO seperate PUBLIC github repositories to submit your work**.

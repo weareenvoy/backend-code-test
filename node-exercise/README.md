@@ -34,3 +34,6 @@ Create a new file in the working directory called `solution.js` and copy the con
 - Update the declartion body of each function.
 - Update the error handling.
 - Update/change the sychronicity of the entire file
+
+### Submission
+Please submit the entire repo including your `solution.js` in a new PUBLIC github repository.
